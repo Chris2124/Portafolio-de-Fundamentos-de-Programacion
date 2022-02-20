@@ -1,0 +1,16 @@
+num1=10
+num2=7
+suma=num1+num2
+print(num1, "+", num2, "=", suma)
+resta=num1-num2
+print(num1, "-", num2, "=", resta)
+mult=num1*num2
+print(num1, "*", num2, "=", mult)
+div=num1/num2
+print(num1, "/", num2, "=", div)
+div2=num1//num2
+print(num1, "//", num2, "=", div2)
+mod=num1%num2
+print(num1, "%", num2, "=", mod)
+pot=num1**num2
+print(num1, "^", num2, "=", pot)
