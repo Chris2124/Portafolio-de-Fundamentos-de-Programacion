@@ -7,8 +7,10 @@ ganados=0
 perdidos=0
 
 def menu ():
-    
-while (op != 0):
+    print("<1> jugar")
+    print("<2> resultados")
+    print("<3> salir")    
+while op != 0:
         menu ()
         op = int(input("ingrese una opcion: "))
         if op == 1:
@@ -65,3 +67,4 @@ while (op != 0):
             quit()
         else:
             print("ingrese una opcion correcta")
+##hi
