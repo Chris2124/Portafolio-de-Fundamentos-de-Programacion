@@ -1,0 +1,10 @@
+a=10
+b=8
+result=(a**2)+(b**2)
+print("10^2+8^2=",result)
+result=(a+b)**2
+print("(10+8)^2=", result)
+result=(b**(1/3))+34
+print("8^(1/3)+34=", result)
+result= (b+34*a)**(1/3)
+print("(8+34(10))^(1/3)=", result)
