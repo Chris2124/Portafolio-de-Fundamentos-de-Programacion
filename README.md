@@ -16,7 +16,7 @@ variable1=10
 ```
 Los siguientes ejemplos no son correctos: 
 ```phyton
- #No valido
+#No valido
 2Valor=10	
 Va-lor=10	
 Va lor=10
